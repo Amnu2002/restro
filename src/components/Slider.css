@@ -1,0 +1,33 @@
+.mainslider{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 6px;
+    /* opacity: 0.5; */
+}
+
+.imagebox{
+    height: 50vh;
+    width: 70vw;
+    display: flex;
+    justify-content: center;
+}
+.thisisimage{
+    border: 6px solid white;
+    width: 50vw;
+}
+.btn1,.btn2{
+    position: absolute;
+    background-color: grey;
+    color: white;
+    font-weight: bold;
+    border-radius: 100px;
+    margin-top: -220px;
+    margin-left: 355px; 
+    height: 60px;
+    opacity: 0.5;
+    width: 60px;
+}
+.btn2{
+    margin-left: 73%;
+}

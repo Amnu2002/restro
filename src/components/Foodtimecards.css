@@ -1,0 +1,20 @@
+.cardmain{
+    height: 35vh;
+    width: 20vw;
+}
+.cardimage{
+    border: 6px solid white;
+    width: 20vw;
+    height: 28vh;
+    overflow: hidden;
+}
+.cardtext{
+    background-color: grey;
+    text-align: center;
+}
+.cardimage1{
+    
+    width:400px;
+    height:200px;
+    object-fit: cover;
+}
